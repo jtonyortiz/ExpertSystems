@@ -10,7 +10,7 @@ CLIPS (C Language Integrated Production System), is a public domain software too
 To help give examples of rule-based AI through simple project code. 
 
 ### How to use/install clips?
-You will first need the CLIPS ide and compiler which you can obtain through this [website](https://http://www.clipsrules.net/Downloads.html). For the time being, it appears to mainly work on Windows based OS's.
+You will first need the CLIPS ide and compiler which you can obtain through this [website](http://www.clipsrules.net/Downloads.html). For the time being, it appears to mainly work on Windows based OS's.
 
 ### How to run CLIPS Programs
 1. Install CLIPS on Windows
